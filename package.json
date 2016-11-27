@@ -1,0 +1,17 @@
+{
+  "name": "linters",
+  "version": "1.0.0",
+  "description": "Silly riddles to show how important linters can be",
+  "main": "riddle-semicolons.js",
+  "dependencies": {
+    "standard": "^8.6.0"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
